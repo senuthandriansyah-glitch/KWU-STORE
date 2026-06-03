@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Sistem POS Modern",
+  "description": "Sistem POS Modern / KWU POS untuk pengelolaan produk, kasir pintar, pencetakan struk lunas thermal Bluetooth, and sinkronisasi Google Sheets realtime gratis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
